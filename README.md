@@ -7,10 +7,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/elias-cintra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elias-cintra" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <a href="https://github.com/EliasCintra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasCintra&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <h3 align="left">Conhecimentos em Linguagens:</h3>
 <p align="left"> 
