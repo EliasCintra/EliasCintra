@@ -9,7 +9,6 @@
 </p>
 <div align="center">
   <a href="https://github.com/EliasCintra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasCintra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasCintra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -25,6 +24,6 @@
 
 <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="40" height="40"/> 
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="MongoDB" width="45" height="45"/> 
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="MongoDB" width="45" height="40"/> 
 
 </p>
