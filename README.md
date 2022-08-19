@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Elias Cintra 👨‍💻 </h1>
 <br>
-<h3 align="center">Um estudante de front-end apaixonado por codificação.</h3>
+<h3 align="center">Um estudante de Full Stack apaixonado por codificação.</h3>
 <br>
 <br>
 <h3 align="left">Conecte comigo em:</h3>
