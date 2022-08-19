@@ -10,16 +10,16 @@
 
 <h3 align="left">Conhecimentos em Linguagens:</h3>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/html5-icon.svg" alt="html5" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/css3-icon.svg" alt="css3" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
+<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/javascript-icon.svg" alt="javascript" width="35" height="35"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> 
+<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/react-icon.svg" alt="React" width="35" height="35"/> 
 
-<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="40" height="40"/> 
+<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> 
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" alt="MongoDB" width="45" height="40"/> 
+<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/mongodb-icon.svg" alt="MongoDB" width="45" height="40"/> 
 
 </p>
