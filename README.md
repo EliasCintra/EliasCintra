@@ -20,6 +20,6 @@
 
 <img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> 
 
-<img src="https://github.com/EliasCintra/EliasCintra/blob/main/Icons/mongodb-icon.svg" alt="MongoDB" width="45" height="40"/> 
+
 
 </p>
