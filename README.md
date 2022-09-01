@@ -19,9 +19,11 @@
 
 <code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code></code>
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-JavaScript-20232A?style-the-badge&logo=javascript" alt="Javascript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-NodeJs%20-20232A?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJS"/></code>
 <code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS"/></code></code>
 <code><img height="32" src="https://img.shields.io/badge/-MongoDb-20232A?style=for-the-badge&logo=MongoDB" alt="MongoDB"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-NodeJs%20-20232A?style=for-the-badge&logo=Node&logoColor=white" alt="NodeJS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-PostgreSQL-20232A?style=for-the-badge&logo=postgresql" alt="Postgresql"/></code>
+
 
 </p>
